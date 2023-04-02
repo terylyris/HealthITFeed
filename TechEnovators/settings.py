@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-te63%8&^^0q7$%7c^*3zydef^np-^brp=i9i=)(xvh&hmh(p&8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://healthitfeed-production.up.railway.app/api/?format=json']
 
 
 # Application definition
